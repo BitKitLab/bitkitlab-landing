@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Fondo carbón mate -->
+  <rect width="512" height="512" fill="#18181B" rx="112"/>
+
+  <!-- Bloque de texto centrado -->
+  <g transform="translate(256, 260)">
+    <!-- BitKitLab. -->
+    <text x="0" y="0" 
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" 
+          font-size="54" 
+          font-weight="300" 
+          letter-spacing="0.5" 
+          fill="#FAFAFA">BitKit<tspan font-weight="700" fill="#FAFAFA">Lab</tspan><tspan fill="#FB923C">.</tspan></text>
+
+    <!-- SOFTWARE & CLOUD -->
+    <text x="0" y="44" 
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" 
+          font-size="12" 
+          font-weight="600" 
+          letter-spacing="8" 
+          fill="#71717A">SOFTWARE &amp; CLOUD</text>
+  </g>
+</svg>
